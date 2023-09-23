@@ -1,0 +1,13 @@
+.no, .noc {
+    font-family: Helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+
+.no {
+    background-color: black;
+    color: white;
+}
+
+.noc {
+    background-color: yellow;
+}
