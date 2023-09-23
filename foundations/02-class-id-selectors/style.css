@@ -1,0 +1,18 @@
+.number {
+    background-color: rgb(245, 168, 168);
+}
+
+#two {
+    color: blue;
+    font-size: 36px;
+}
+
+.number.three {
+    font-size: 24px;
+}
+
+#four {
+    background-color: rgb(108, 239, 187);
+    font-size: 24px;
+    font-weight: bold;
+}
